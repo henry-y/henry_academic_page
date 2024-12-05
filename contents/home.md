@@ -1,16 +1,9 @@
+#### Biography
 
+I am currently a third-year undergraduate student majoring in Computer Science at Sun Yat-sen University. My research interests now focus on High Performance Computing and Efficient ML Inference System.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a member of the SCC(Student Cluster Competiton) team at Sun Yat-sen University and plan to participate in the ASC25 competition with my team. 
 
 #### Email
-sli[at]cumt.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+huangy783[at]mail2.sysu.edu.cn
