@@ -1,9 +1,6 @@
-
-
 const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'awards', 'project']
-
 
 window.addEventListener('DOMContentLoaded', event => {
 
@@ -29,7 +26,6 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
-
     // Yaml
     fetch(content_dir + config_file)
         .then(response => response.text())
@@ -45,7 +41,6 @@ window.addEventListener('DOMContentLoaded', event => {
             })
         })
         .catch(error => console.log(error));
-
 
     // Marked
     marked.use({ mangle: false, headerIds: false })
